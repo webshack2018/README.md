@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Webshack2018</h1>
+<h1 align="center">Hi 👋, I'm Debashish aka webshack2018</h1>
 <h3 align="center">A Passionate Frontend Developer From Assam,IND</h3>
 
 <p align="left"> <a href="https://twitter.com/debtechsolution" target="blank"><img src="https://img.shields.io/twitter/follow/debtechsolution?logo=twitter&style=for-the-badge" alt="debtechsolution" /></a> </p>
 
-- 🔭 I’m currently working on [ILovesCodes](http://ilovescodes.tech)
+- 🔭 I’m currently working on [Backend Developer](http://ilovescodes.tech)
 
 - 🌱 I’m currently learning **Bootstrap,React JS,Angular,Vue JS**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [ilovescodes.tech](ilovescodes.tech)
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact **I Think I am Funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
