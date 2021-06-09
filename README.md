@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [ilovescodes.tech](ilovescodes.tech)
 
-- 📝 I regularly write articles on [ilovescodes.tech](ilovescodes.tech)
-
 - 💬 Ask me about **HTMl,CSS,JS**
 
 - 📫 How to reach me **debashish@ilovescodes.tech**
