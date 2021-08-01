@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Debashish aka webshack2018</h1>
-<h3 align="center">A Passionate Frontend Developer From Assam,IND</h3>
+<h1 align="center">Hi 👋, I'm Debashish Bordoloi 👨‍💻 </h1>
+<h3 align="center">A Passionate Full Stack Web Developer From Assam, 🇮🇳</h3>
 
 <p align="left"> <a href="https://twitter.com/debtechsolution" target="blank"><img src="https://img.shields.io/twitter/follow/debtechsolution?logo=twitter&style=for-the-badge" alt="debtechsolution" /></a> </p>
 
-- 🔭 I’m currently working on [Backend Developer](http://ilovescodes.tech)
+- 🔭 I’m currently working on [Web Development ](http://ilovescodes.tech)
 
 - 🌱 I’m currently learning **Bootstrap,React JS,Angular,Vue JS**
 
 - 👯 I’m looking to collaborate on [GeeksForGeeks](https://www.geeksforgeeks.org/)
 
-- 🤝 I’m looking for help with [Sankalpa Baruah](https://github.com/Sanbarua)
 
 - 👨‍💻 All of my projects are available at [ilovescodes.tech](ilovescodes.tech)
 
@@ -24,8 +23,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/debtechsolution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debtechsolution" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/debtechsolution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debtechsolution" height="30" width="40" /></a>
+  
 <a href="https://fb.com/bachadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bachadhan" height="30" width="40" /></a>
+  
 <a href="https://www.youtube.com/channel/UCwfgumMMtxf_k2RkWNBShKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techbuster" height="30" width="40" /></a>
 </p>
 
